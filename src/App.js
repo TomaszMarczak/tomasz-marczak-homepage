@@ -77,7 +77,7 @@ function App() {
             </ul>
           </div>
         </div>
-        <h3 className="text-2xl mt-5">Last projects</h3>
+        <h3 className="text-2xl mt-5">Latest projects</h3>
         <a
           href="https://tomaszmarczak.github.io/roulette-strategy/"
           className="w-full"
@@ -101,7 +101,9 @@ function App() {
           className="w-full"
         >
           <div className="text-justify p-3 shadow-xl border border-cyan-700 rounded-xl">
-            <span className="text-lg font-semibold">React EONET Plotting</span>
+            <span className="text-lg font-semibold">
+              REACT EONET Map Plotting
+            </span>
             <p>
               Application that displays current weather events using EONET API,
               React Leaflet Map and some simple bootstrap components. Each event
