@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.81425ef2.css",
-    "main.js": "/homepage/static/js/main.39d35590.js",
-    "static/media/ReactEONETMapPlotting.png": "/homepage/static/media/ReactEONETMapPlotting.008eba65db2a42d44bb3.png",
-    "static/media/RouletteStrategy.png": "/homepage/static/media/RouletteStrategy.1ee85b1b4407f22a3287.png",
-    "index.html": "/homepage/index.html",
-    "main.81425ef2.css.map": "/homepage/static/css/main.81425ef2.css.map",
-    "main.39d35590.js.map": "/homepage/static/js/main.39d35590.js.map"
+    "main.css": "/tomasz-marczak-homepage/static/css/main.81425ef2.css",
+    "main.js": "/tomasz-marczak-homepage/static/js/main.c8dcee40.js",
+    "static/media/ReactEONETMapPlotting.png": "/tomasz-marczak-homepage/static/media/ReactEONETMapPlotting.008eba65db2a42d44bb3.png",
+    "static/media/RouletteStrategy.png": "/tomasz-marczak-homepage/static/media/RouletteStrategy.1ee85b1b4407f22a3287.png",
+    "index.html": "/tomasz-marczak-homepage/index.html",
+    "main.81425ef2.css.map": "/tomasz-marczak-homepage/static/css/main.81425ef2.css.map",
+    "main.c8dcee40.js.map": "/tomasz-marczak-homepage/static/js/main.c8dcee40.js.map"
   },
   "entrypoints": [
     "static/css/main.81425ef2.css",
-    "static/js/main.39d35590.js"
+    "static/js/main.c8dcee40.js"
   ]
 }
