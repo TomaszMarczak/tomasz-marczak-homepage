@@ -83,7 +83,7 @@ function App() {
           href="https://tomaszmarczak.github.io/firebase-auth-typescript/"
           className="w-full"
         >
-          <div className="text-justify p-3 shadow-xl border border-cyan-700 rounded-xl">
+          <div className="flex flex-col text-justify items-center p-3 shadow-xl border border-cyan-700 rounded-xl">
             <span className="text-lg font-semibold">
               Firebase Auth & Storage
             </span>
@@ -95,7 +95,8 @@ function App() {
             </p>
             <img
               src={TypescriptFirebase}
-              className="rounded-xl mt-2"
+              className="rounded-xl mt-2 w-100 border"
+              style={{ objectFit: "cover", height: "20rem" }}
               alt="Firebase Auth Preview"
             />
           </div>
@@ -104,7 +105,7 @@ function App() {
           href="https://tomaszmarczak.github.io/roulette-strategy/"
           className="w-full"
         >
-          <div className="text-justify p-3 shadow-xl border border-cyan-700 rounded-xl">
+          <div className="flex flex-col text-justify p-3 shadow-xl border border-cyan-700 rounded-xl">
             <span className="text-lg font-semibold">Roulette Strategies</span>
             <p>
               App created with Typescript to simulate different roulette
@@ -115,6 +116,7 @@ function App() {
               src={RouletteStrategy}
               className="rounded-xl mt-2"
               alt="Roulette Strategies Preview"
+              style={{ objectFit: "cover", height: "20rem" }}
             />
           </div>
         </a>
@@ -122,7 +124,7 @@ function App() {
           href="https://tomaszmarczak.github.io/react-eonet-map-plotting/"
           className="w-full"
         >
-          <div className="text-justify p-3 shadow-xl border border-cyan-700 rounded-xl">
+          <div className="flex flex-col text-justify p-3 shadow-xl border border-cyan-700 rounded-xl">
             <span className="text-lg font-semibold">
               REACT EONET Map Plotting
             </span>
@@ -135,6 +137,7 @@ function App() {
               src={ReactEONETMapPlotting}
               className="rounded-xl mt-2"
               alt="REACT Eonet Map Plotting Preview"
+              style={{ objectFit: "cover", height: "20rem" }}
             />
           </div>
         </a>
