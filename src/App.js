@@ -2,6 +2,7 @@ import "./App.css";
 import { FaGithub, FaFacebook, FaLinkedin } from "react-icons/fa";
 import ReactEONETMapPlotting from "./assets/ReactEONETMapPlotting.png";
 import RouletteStrategy from "./assets/RouletteStrategy.png";
+import TypescriptFirebase from "./assets/TypescriptFirebase.png";
 
 function App() {
   return (
@@ -78,6 +79,27 @@ function App() {
           </div>
         </div>
         <h3 className="text-2xl mt-5">Latest projects</h3>
+        <a
+          href="https://tomaszmarczak.github.io/firebase-auth-typescript/"
+          className="w-full"
+        >
+          <div className="text-justify p-3 shadow-xl border border-cyan-700 rounded-xl">
+            <span className="text-lg font-semibold">
+              Firebase Auth & Storage
+            </span>
+            <p>
+              Typescript app that allows user to register with email/password
+              through Firebase. Beside obvious login feature, there is also
+              possibility to retrieve password and edit basic user information
+              or add profile picture through Firebase Storage.
+            </p>
+            <img
+              src={TypescriptFirebase}
+              className="rounded-xl mt-2"
+              alt="Firebase Auth Preview"
+            />
+          </div>
+        </a>
         <a
           href="https://tomaszmarczak.github.io/roulette-strategy/"
           className="w-full"
